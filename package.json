@@ -153,7 +153,7 @@
     "karma-jasmine-sinon": "^1.0.4",
     "karma-spec-reporter": "^0.0.35",
     "karma-viewport": "^1.0.9",
-    "puppeteer": "^15.5.0",
+    "puppeteer": "^19.4.1",
     "regextras": "^0.8.0",
     "sass": "^1.56.1",
     "sass-loader": "^13.2.0",
